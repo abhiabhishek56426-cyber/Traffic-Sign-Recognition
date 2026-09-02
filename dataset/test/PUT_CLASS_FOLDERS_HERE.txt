@@ -1,1 +1,1 @@
-
+Create the same class folders as dataset/train and place test images here.
